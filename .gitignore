@@ -1,0 +1,22 @@
+# API Key 和本地配置
+.env
+.env.*
+!.env.example
+
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+.idea/
+.vscode/
+
+
+*.db
+*.db-*
+*.sqlite
+*.sqlite3
+*.log
+
+response_*.json
